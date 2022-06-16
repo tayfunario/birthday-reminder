@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/%7Bbirthday-reminder%7D/static/css/main.ba3467fd.css",
+    "main.js": "/%7Bbirthday-reminder%7D/static/js/main.bab84dce.js",
+    "static/js/787.0fa526db.chunk.js": "/%7Bbirthday-reminder%7D/static/js/787.0fa526db.chunk.js",
+    "static/media/person-5.jpg": "/%7Bbirthday-reminder%7D/static/media/person-5.80a56948cd56e63f7ee1.jpg",
+    "static/media/person-4.jpg": "/%7Bbirthday-reminder%7D/static/media/person-4.60140db4cbafafd12671.jpg",
+    "static/media/person-1.jpg": "/%7Bbirthday-reminder%7D/static/media/person-1.656e3da7229aed34b790.jpg",
+    "static/media/person-2.jpg": "/%7Bbirthday-reminder%7D/static/media/person-2.705a1597f4d04a60635e.jpg",
+    "static/media/person-3.jpg": "/%7Bbirthday-reminder%7D/static/media/person-3.05c65e9341283e507e43.jpg",
+    "index.html": "/%7Bbirthday-reminder%7D/index.html",
+    "main.ba3467fd.css.map": "/%7Bbirthday-reminder%7D/static/css/main.ba3467fd.css.map",
+    "main.bab84dce.js.map": "/%7Bbirthday-reminder%7D/static/js/main.bab84dce.js.map",
+    "787.0fa526db.chunk.js.map": "/%7Bbirthday-reminder%7D/static/js/787.0fa526db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba3467fd.css",
+    "static/js/main.bab84dce.js"
+  ]
+}
